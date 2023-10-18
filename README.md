@@ -74,8 +74,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mehtajinesh/mehtajinesh/output/snake.svg" alt="Snake animation" />
-
+![Snake animation]
+(https://github.com/{{mehtajinesh}}/{{mehtajinesh}}/blob/output/github-contribution-grid-snake.svg)
 ###
 
 <div align="center">
