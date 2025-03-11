@@ -1,77 +1,61 @@
-<h2 align="left">Hey 👋! My name is Jinesh Mehta, and I'm an experienced developer with 5+ years of exposure in the tech industry, building robust and scalable business products.</h2>
+# 👋 Hi there, I'm Jinesh Mehta
 
-###
+## 🚀 About Me
+ML Engineer with 7+ years of industry experience in building robust, large-scale AI solutions using Python, SQL, TensorFlow, and PyTorch. Expertise in developing and deploying traditional ML and LLM models across cloud platforms like GCP and AWS.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehtajinesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtajinesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 💼 Professional Experience
+- **Machine Learning Engineer** at CVS Health (Dec 2023 - Present)
+- **Machine Learning Engineer** at Schneider Electric (Jul 2022 - Dec 2022)
+- **Senior Machine Learning Engineer** at Honeywell (Oct 2019 - Jul 2021)
+- **Machine Learning Engineer** at Honeywell (Jul 2017 - Sep 2019)
+- **Machine Learning Engineer** at Centre of Artificial and Machine Intelligence (Jan 2016 - Jun 2017)
 
-###
+## 🛠️ Key Projects
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-</div>
+### RAG-based LLM System for Medical Contracts
+Developed an end-to-end RAG-based LLM system for parsing PBM medical contracts and generating accurate contextual responses for contract queries, reducing review time by 65% and improving compliance accuracy by 40% for healthcare stakeholders.
 
-###
+### Standardized ML Framework
+Engineered a standardized ML framework with modular KubeFlow components for complete model lifecycle, reducing deployment time by 70% and increasing team collaboration by 45%.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mehtajineshs/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="http://jineshmehta.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Personal Site&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
-  </a>
-</div>
+### AI Platform for Model Aggregation
+Architectured an AI Platform to aggregate and centralize 700+ ML models, resulting in faster large-scale production deployments.
 
-###
+### Deep Reinforcement Learning Database Recommendation System
+Architectured a Deep Reinforcement Learning-based Database Recommendation System, spiking click-through rates by 20% and enhancing performance using Actor-Critic model with 10% jump in user engagement.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mehtajinesh/count.svg?"  />
-</div>
+## 🔧 Skills & Technologies
 
-###
+| Category | Technologies |
+|----------|--------------|
+| **Languages & DB** | Python, Java, SQL (MySQL, PostgreSQL), NoSQL (MongoDB) |
+| **ML/AI** | PyTorch, TensorFlow, Keras, Scikit-Learn, HuggingFace, NLTK |
+| **Data** | NumPy, Pandas, Matplotlib, BigQuery |
+| **Cloud/MLOps** | GCP (Vertex AI, Cloud Composer), AWS (S3, SageMaker, Lambda, EventBridge), Kubernetes, Docker |
+| **Frameworks** | FastAPI, Django, OpenCV, Kafka |
+
+## 📊 GitHub Stats
+
+[![Jinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtajinesh)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📚 Research & Publications
+- NeurIPS Workshop, HyperCube-based Accelerated DBSCAN (Dec 2019)
+- IEEE Conference (ICCCSP), Face Detection and Tagging using Deep Learning (Feb 2018)
+
+## 🎓 Education
+- **Master of Science - Computer Science**, Northeastern University
+- **Bachelor of Technology - Computer Science**, Manipal University
+
+## 📫 How to Reach Me
+- Email: mehtajineshs@gmail.com
+- GitHub: [mehtajinesh](https://github.com/mehtajinesh)
+- LinkedIn: [mehtajineshs](https://linkedin.com/in/mehtajineshs)
+
+## 🌱 Currently Learning
+- Advanced LLM Fine-tuning Techniques
+- Reinforcement Learning from Human Feedback (RLHF)
+- Vector Database Optimization for RAG Systems
+
+---
+
+⭐️ From [mehtajinesh](https://github.com/mehtajinesh)
