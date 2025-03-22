@@ -35,8 +35,7 @@ Architectured a Deep Reinforcement Learning-based Database Recommendation System
 | **Frameworks** | FastAPI, Django, OpenCV, Kafka |
 
 ## 📊 GitHub Stats
-
-[![Jinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtajinesh)](https://github.com/anuraghazra/github-readme-stats)
+![Jinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtajinesh&show_icons=true)
 
 ## 📚 Research & Publications
 - NeurIPS Workshop, HyperCube-based Accelerated DBSCAN (Dec 2019)
